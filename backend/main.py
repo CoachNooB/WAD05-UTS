@@ -1,5 +1,3 @@
-"""API koleksi buku. Jalankan satu worker karena data disimpan di memori."""
-
 import json
 import os
 from contextlib import asynccontextmanager
